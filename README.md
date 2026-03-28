@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Cześć, jestem Jan 👋</h1>
 
-<!--
-**JanZurek/JanZurek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>SOC Analyst & Reverse Engineering Enthusiast</b><br>
+  <i>Technik Informatyk | CompTIA Security+ (900/900)</i>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/jan-żurek/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jan%20Żurek-blue?logo=linkedin" />
+  </a>
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-Ghidra%20%7C%20x64dbg-blue" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 O mnie
+
+Jestem pasjonatem cyberbezpieczeństwa, studentem informatyki (profil praktyczny) na **Politechnice Śląskiej** oraz posiadaczem certyfikatu **CompTIA Security+** (wynik: 900 pkt). Interesuję się analizą złośliwego oprogramowania, inżynierią odwrotną oraz pracą w SOC. Szybko się uczę i aktywnie rozwijam swoje umiejętności praktyczne.
+
+---
+
+## 🔧 Narzędzia i technologie
+
+![Ghidra](https://img.shields.io/badge/-Ghidra-blue)
+![x64dbg](https://img.shields.io/badge/-x64dbg-lightgrey)
+![Wireshark](https://img.shields.io/badge/-Wireshark-blue?logo=wireshark)
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-blue?logo=windows)
+
+---
+
+## 📂 Projekty
+
+| Projekt | Opis |
+|--------|------|
+| [Crackme Writeups](https://github.com/JanZurek/Crackme_Writesups) | Rozwiązania zadań RE z crackmes.one — Ghidra, x64dbg, analiza kodu assemblera |
+
+---
+
+## 🎯 Aktualnie
+
+- 🔍 Szukam pierwszej roli w cyberbezpieczeństwie (SOC Analyst / Junior Security Engineer)
+- 📚 Rozwijam umiejętności z Reverse Engineering na crackmes.one
+- 🧪 Planuję rozbudowę home labu (SIEM, analiza ruchu sieciowego)
+
+---
+
+## 📫 Kontakt
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jan-żurek/)
+- 📧 Napisz do mnie przez LinkedIn
