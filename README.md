@@ -50,4 +50,4 @@ Jestem pasjonatem cyberbezpieczeństwa, studentem informatyki (profil praktyczny
 ## 📫 Kontakt
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jan-żurek/)
-- 📧 Napisz do mnie przez LinkedIn
+- 📧 Napisz do mnie przez LinkedIn lub na e-mail jan.zurek19@gmail.com
