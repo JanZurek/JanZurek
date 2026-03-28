@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>SOC Analyst & Reverse Engineering Enthusiast</b><br>
-  <i>Technik Informatyk | CompTIA Security+ (900/900)</i>
+  <i>Technik Informatyk | CompTIA Security+<i>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 O mnie
 
-Jestem pasjonatem cyberbezpieczeństwa, studentem informatyki (profil praktyczny) na **Politechnice Śląskiej** oraz posiadaczem certyfikatu **CompTIA Security+** (wynik: 900 pkt). Interesuję się analizą złośliwego oprogramowania, inżynierią odwrotną oraz pracą w SOC. Szybko się uczę i aktywnie rozwijam swoje umiejętności praktyczne.
+Jestem pasjonatem cyberbezpieczeństwa, studentem informatyki (profil praktyczny) na **Politechnice Śląskiej** oraz posiadaczem certyfikatu **CompTIA Security+** oraz **AZ-900**. Interesuję się analizą złośliwego oprogramowania, inżynierią odwrotną oraz pracą w SOC. Szybko się uczę i aktywnie rozwijam swoje umiejętności praktyczne.
 
 ---
 
