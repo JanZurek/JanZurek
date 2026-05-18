@@ -42,8 +42,8 @@ Jestem pasjonatem cyberbezpieczeństwa, studentem informatyki (profil praktyczny
 ## 🎯 Aktualnie
 
 - 🔍 Szukam pierwszej roli w cyberbezpieczeństwie (SOC Analyst / Junior Security Engineer)
-- 📚 Rozwijam umiejętności z Reverse Engineering na crackmes.one
-- 🧪 Planuję rozbudowę home labu (SIEM, analiza ruchu sieciowego)
+- 📚 Rozwijam umiejętności z Reverse Engineering
+- 🧪 Zbieranie danych w HoneyPocie udawającym infrastukturę OT za pomocą Cowrie i Conpot
 
 ---
 
