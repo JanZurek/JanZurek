@@ -17,7 +17,7 @@
 
 ## 👨‍💻 O mnie
 
-Jestem pasjonatem cyberbezpieczeństwa, studentem informatyki (profil praktyczny) na **Politechnice Śląskiej** oraz posiadaczem certyfikatu **CompTIA Security+** oraz **AZ-900**. Interesuję się analizą złośliwego oprogramowania, inżynierią odwrotną oraz pracą w SOC. Szybko się uczę i aktywnie rozwijam swoje umiejętności praktyczne.
+Jestem pasjonatem cyberbezpieczeństwa, studentem informatyki (profil praktyczny) na **Politechnice Śląskiej** oraz posiadaczem certyfikatu **CompTIA Security+** oraz **AZ-900**. Szybko się uczę i aktywnie rozwijam swoje umiejętności praktyczne.
 
 ---
 
