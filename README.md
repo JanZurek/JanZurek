@@ -36,7 +36,7 @@ Jestem pasjonatem cyberbezpieczeństwa, studentem informatyki (profil praktyczny
 | Projekt | Opis |
 |--------|------|
 | [Crackme Writeups](https://github.com/JanZurek/Crackme_Writesups) | Rozwiązania zadań RE z crackmes.one — Ghidra, x64dbg, analiza kodu assemblera |
-
+| [HoneyPot-Project](https://github.com/JanZurek/HoneyPot-Project) | Podsumowanie Honeypota - Cowrie, Conpot |
 ---
 
 ## 🎯 Aktualnie
